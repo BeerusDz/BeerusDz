@@ -5,7 +5,7 @@
 ![playing](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/529788328405499905)
 ![vscode](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/529788328405499905)
 ![intellij](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/intellij/529788328405499905)
-[![spotify](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/190916650143318016)]
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/190916650143318016)](https://dev.discordprofiles.me/openspotify/190916650143318016)
 
 <!--
 **advaith1/advaith1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
