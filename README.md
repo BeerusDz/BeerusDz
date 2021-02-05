@@ -1,7 +1,7 @@
-### hello world 👋🏾
+### 
 
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/529788328405499905?simple=true)
+![status](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/529788328405499905?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/529788328405499905)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/529788328405499905)
 ![intellij](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/intellij/529788328405499905)
